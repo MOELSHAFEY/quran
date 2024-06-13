@@ -1,18 +1,130 @@
 [
-  {
-    "name": "ياسر الدوسري",
-    "url": "rr"
-  },
-  {
-    "name": "عبدالباسط عبدالصمد",
-    "url": "rr"
-  },
-  {
-    "name": "علي جابر",
-    "url": "rr"
-  },
-  {
-    "name": "المنشاوي",
-    "url": "rr"
-  }
+    {
+        "name": "أحمد الحذيفي",
+        "source": "https://server8.mp3quran.net/ahmad_huth/"
+    },
+    {
+        "name": "أحمد الحواشي",
+        "source": "https://server11.mp3quran.net/hawashi/"
+    },
+    {
+        "name": "أحمد السويلم",
+        "source": "https://server14.mp3quran.net/swlim/Rewayat-Hafs-A-n-Assem/"
+    },
+    {
+        "name": "أحمد الطرابلسي",
+        "source": "https://server10.mp3quran.net/trabulsi/"
+    },
+    {
+        "name": "أحمد النفيس",
+        "source": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/"
+    },
+    {
+        "name": "أحمد بن علي العجمي",
+        "source": "https://server10.mp3quran.net/ajm/"
+    },
+    {
+        "name": "أحمد خليل شاهين",
+        "source": "https://server16.mp3quran.net/shaheen/Rewayat-Hafs-A-n-Assem/"
+    },
+    {
+        "name": "إدريس أبكر",
+        "source": "https://server6.mp3quran.net/abkr/"
+    },
+    {
+        "name": "إسلام صبحي",
+        "source": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/013.mp3"
+    },
+    {
+        "name": "بدر التركي",
+        "source": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/"
+    },
+    {
+        "name": "بندر بليله",
+        "source": "https://server6.mp3quran.net/balilah/"
+    },
+    {
+        "name": "بيشه وا قادر الكردي",
+        "source": "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/"
+    },
+    {
+        "name": "خالد الجليل",
+        "source": "https://server10.mp3quran.net/jleel/"
+    },
+    {
+        "name": "خالد الشريمي",
+        "source": "https://server12.mp3quran.net/shoraimy/"
+    },
+    {
+        "name": "شيخ أبو بكر الشاطري",
+        "source": "https://server11.mp3quran.net/shatri/"
+    },
+    {
+        "name": "شعبان الصياد",
+        "source": "https://server11.mp3quran.net/shaban/003.mp3"
+    },
+    {
+        "name": "شيرزاد عبدالرحمن طاهر",
+        "source": "https://server12.mp3quran.net/taher/"
+    },
+    {
+        "name": "عادل الكلباني",
+        "source": "https://server8.mp3quran.net/a_klb/"
+    },
+    {
+        "name": "عبدالباسط عبدالصمد",
+        "source": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/"
+    },
+    {
+        "name": "عبدالرحمن السديس",
+        "source": "https://server11.mp3quran.net/sds/"
+    },
+    {
+        "name": "عبدالرحمن العوسي",
+        "source": "https://server6.mp3quran.net/aloosi/"
+    },
+    {
+        "name": "عبدالله الموسى",
+        "source": "https://server14.mp3quran.net/mousa/Rewayat-Hafs-A-n-Assem/"
+    },
+    {
+        "name": "علي جابر",
+        "source": "https://server11.mp3quran.net/a_jbr/"
+    },
+    {
+        "name": "ماهر المعيقلي",
+        "source": "https://server12.mp3quran.net/maher/"
+    },
+    {
+        "name": "محمد أيوب",
+        "source": "https://server8.mp3quran.net/ayyub/"
+    },
+    {
+        "name": "موسى بلال",
+        "source": "https://server11.mp3quran.net/bilal/"
+    },
+    {
+        "name": "هيثم الدخين",
+        "source": "https://server16.mp3quran.net/h_dukhain/Rewayat-Hafs-A-n-Assem/"
+    },
+    {
+        "name": "هزاع البلوشي",
+        "source": "https://server11.mp3quran.net/hazza/"
+    },
+    {
+        "name": "هاني الرفاعي",
+        "source": "https://server8.mp3quran.net/hani/"
+    },
+    {
+        "name": "ياسر الدوسري",
+        "source": "https://server11.mp3quran.net/yasser/"
+    },
+    {
+        "name": "ياسر المزروعي",
+        "source": "https://server9.mp3quran.net/mzroyee/"
+    },
+    {
+        "name": "ياسر القرشي",
+        "source": "https://server9.mp3quran.net/qurashi/"
+    }
 ]
